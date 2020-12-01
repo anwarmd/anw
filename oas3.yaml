@@ -1,8 +1,8 @@
 openapi: 3.0.1
 info:
-  title: Oracle Unity API
+  title: Oracle Unity API-testing
   version: 2023.1.0
-  description: Customer Intelligence Platform for Real-Time Customer Experience
+  description: Customer Intelligence Platform for Real-Time Customer Experience, 
 servers:
   - url: http://dev-mcps.cxunity.ocs.oc-test.com/api-admin
     description: Generated server url
